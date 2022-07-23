@@ -19,5 +19,7 @@ Syed Tawsif Islam
 
 
 [Awards](https://www.eodashboardhackathon.org/challenges/agricultural-impact/agricultural-impacts-of-covid-19/teams/tech-nerds-1/project):
-* Global Finalist
-* Honourable Mention
+* ![image](https://user-images.githubusercontent.com/44209638/180597568-41a23fdd-84a8-473d-947f-e5ba006bfa19.png)
+Global Finalist
+* ![image](https://user-images.githubusercontent.com/44209638/180597586-61f9f121-228f-4e6a-89fa-7fdc2e218f83.png)
+Honourable Mention
