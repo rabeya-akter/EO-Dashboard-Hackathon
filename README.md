@@ -2,7 +2,8 @@
 
 
 Team Members:
-*Rabeya Akter
+
+* Rabeya Akter
 * Safaeid Hossain Arib
 * ![image](https://user-images.githubusercontent.com/44209638/180596811-694193a1-46b2-4ec9-ab7a-69357b1d72f6.png)
 Anika Rahnuma
