@@ -1,5 +1,10 @@
 # EO-Dashboard-Hackathon
 
+![image](https://user-images.githubusercontent.com/44209638/180597257-cfbc2c25-aadb-4191-b705-a69ed1803153.png)
+
+
+Challange Website: https://www.eodashboardhackathon.org/
+
 
 Team Members:
 
